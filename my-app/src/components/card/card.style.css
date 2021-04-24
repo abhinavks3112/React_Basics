@@ -1,0 +1,21 @@
+.card {
+  margin: 0 auto;
+  background-color: aquamarine;
+  display: flex;
+  flex-direction: column;
+  border: 1px solid grey;
+  border-radius: 5px;
+  padding: 1vw;
+  cursor: pointer;
+  -moz-osx-font-smoothing: grayscale;
+  backface-visibility: hidden;
+  transform: translateZ(0);
+  transition: transform 0.25s ease-out;
+  word-wrap: break-word;
+  width: 15vw;
+  height: 30vh;
+}
+
+.card:hover {
+  transform: scale(1.05);
+}
