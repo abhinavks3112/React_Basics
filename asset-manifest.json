@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/abhinavks3112/React_Basics/static/css/main.e4fde63d.chunk.css",
-    "main.js": "/abhinavks3112/React_Basics/static/js/main.d7f70fa7.chunk.js",
-    "main.js.map": "/abhinavks3112/React_Basics/static/js/main.d7f70fa7.chunk.js.map",
-    "runtime-main.js": "/abhinavks3112/React_Basics/static/js/runtime-main.c55dfe77.js",
-    "runtime-main.js.map": "/abhinavks3112/React_Basics/static/js/runtime-main.c55dfe77.js.map",
-    "static/js/2.c4137f72.chunk.js": "/abhinavks3112/React_Basics/static/js/2.c4137f72.chunk.js",
-    "static/js/2.c4137f72.chunk.js.map": "/abhinavks3112/React_Basics/static/js/2.c4137f72.chunk.js.map",
-    "static/js/3.cb616aae.chunk.js": "/abhinavks3112/React_Basics/static/js/3.cb616aae.chunk.js",
-    "static/js/3.cb616aae.chunk.js.map": "/abhinavks3112/React_Basics/static/js/3.cb616aae.chunk.js.map",
-    "index.html": "/abhinavks3112/React_Basics/index.html",
-    "static/css/main.e4fde63d.chunk.css.map": "/abhinavks3112/React_Basics/static/css/main.e4fde63d.chunk.css.map",
-    "static/js/2.c4137f72.chunk.js.LICENSE.txt": "/abhinavks3112/React_Basics/static/js/2.c4137f72.chunk.js.LICENSE.txt"
+    "main.css": "/abhinavks3112/React_Basics/tree/main/my-app/static/css/main.e4fde63d.chunk.css",
+    "main.js": "/abhinavks3112/React_Basics/tree/main/my-app/static/js/main.d7f70fa7.chunk.js",
+    "main.js.map": "/abhinavks3112/React_Basics/tree/main/my-app/static/js/main.d7f70fa7.chunk.js.map",
+    "runtime-main.js": "/abhinavks3112/React_Basics/tree/main/my-app/static/js/runtime-main.76693264.js",
+    "runtime-main.js.map": "/abhinavks3112/React_Basics/tree/main/my-app/static/js/runtime-main.76693264.js.map",
+    "static/js/2.c4137f72.chunk.js": "/abhinavks3112/React_Basics/tree/main/my-app/static/js/2.c4137f72.chunk.js",
+    "static/js/2.c4137f72.chunk.js.map": "/abhinavks3112/React_Basics/tree/main/my-app/static/js/2.c4137f72.chunk.js.map",
+    "static/js/3.cb616aae.chunk.js": "/abhinavks3112/React_Basics/tree/main/my-app/static/js/3.cb616aae.chunk.js",
+    "static/js/3.cb616aae.chunk.js.map": "/abhinavks3112/React_Basics/tree/main/my-app/static/js/3.cb616aae.chunk.js.map",
+    "index.html": "/abhinavks3112/React_Basics/tree/main/my-app/index.html",
+    "static/css/main.e4fde63d.chunk.css.map": "/abhinavks3112/React_Basics/tree/main/my-app/static/css/main.e4fde63d.chunk.css.map",
+    "static/js/2.c4137f72.chunk.js.LICENSE.txt": "/abhinavks3112/React_Basics/tree/main/my-app/static/js/2.c4137f72.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c55dfe77.js",
+    "static/js/runtime-main.76693264.js",
     "static/js/2.c4137f72.chunk.js",
     "static/css/main.e4fde63d.chunk.css",
     "static/js/main.d7f70fa7.chunk.js"
