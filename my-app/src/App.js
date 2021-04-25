@@ -45,7 +45,8 @@ Using class component in order to get access to:
 
       return (
       <div className="App">
-        <SearchBox placeholder="search cats" handleChange={this.searchEventHandler} />
+        <h1>CATS FAMILY</h1>
+        <SearchBox placeholder="Search Cats" handleChange={this.searchEventHandler} />
         <CardList users = {filteredUsers} />
       </div>
       );
