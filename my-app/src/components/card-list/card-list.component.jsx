@@ -8,6 +8,7 @@ export const CardList = (props) => {
         <div className='card-list'>
             {
                 props.users.map((user) => (
+                    // key attribute in map helps react to uniquely identify the particular instance that's changed and only re-render that and not others
                     <Card key={user.id}  user={user} ></Card>
                 ))
             }

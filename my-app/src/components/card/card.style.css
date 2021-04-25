@@ -13,7 +13,6 @@
   transition: transform 0.25s ease-out;
   word-wrap: break-word;
   width: 15vw;
-  height: 30vh;
 }
 
 .card:hover {
